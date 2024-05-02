@@ -1,3 +1,4 @@
-looking to add draw functions and readings for tarot
-
+looking to add draw methods and readings for tarot
+	method for drawing cards has been added. Will later update constraints for specific spreads usings kwargs (I.e. 'Celtic Cross' or 'Past, Present, Future')
 looking to do one card spreads then three
+	can do spreads for as many cards as specified but will add limits so that, for example, a fifty card spread will not be executed
